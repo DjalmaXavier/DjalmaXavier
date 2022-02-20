@@ -5,4 +5,4 @@
 - 🌱 Estou aprendendo JS, Python e C#
 - ⚡ Fato: Estou perdido nessa minha nova jornada, mas acredito que com esforço e dedicação, poderei alcançar o que tanto almejo: Ser um ótimo programador.
 
- ![Snake animation](https://github.com/rafaballerini/DjalmaXavier/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/DjalmaXavier/DjalmaXavier/blob/output/github-contribution-grid-snake.svg)
