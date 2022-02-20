@@ -1,4 +1,4 @@
-### Oi! Me chamo Djalma, e estou começando a aprender sobre programação!
+### Oi! Me chamo Djalma e estou começando a aprender sobre programação!
 
     
 - 🔭 Estou trabalhando hoje em dia como Auxiliar Administrativo
