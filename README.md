@@ -4,7 +4,7 @@ Sou um entusiasta da programação, que volta e meia procura aprender uma nova l
 
 ## Sobre Mim
 
-- 💻 Aprendendo: JavaScript e C++.
+- 💻 Aprendendo: JavaScript e PHP (C++ e Java por hobby).
 - 🎓 Busco sempre aprender e crescer como desenvolvedor.
 - 🚀 Almejo me tornar um desenvolvedor experiente e eficaz.
 - 🕹️ Gamer nas horas Vagas.
