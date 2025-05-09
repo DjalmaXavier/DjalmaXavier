@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 💻 Aprendendo: Java e C#.
+- 💻 Aprendendo: Java e Javascript/Typescript.
 - 🎓 Busco sempre aprender e crescer como desenvolvedor.
 - 🚀 Almejo me tornar um desenvolvedor experiente e eficaz.
 - 🕹️ Gamer nas horas Vagas.
@@ -24,4 +24,4 @@ Meu objetivo é me tornar um desenvolvedor experiente, sendo capaz de atender as
 
 ---
 
-*Este README foi inspirado na minha jornada como aprendiz de desenvolvimento e está sempre em evolução. Última atualização: 11/2024.*
+*Este README foi inspirado na minha jornada como aprendiz de desenvolvimento e está sempre em evolução. Última atualização: 05/2025.*
